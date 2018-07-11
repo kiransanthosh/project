@@ -1,0 +1,29 @@
+{
+"profile":{
+  "name":"kiransanthosh",
+  "image":"1.png",
+  "email":"chimata1999@gmail.com",
+  "mobile":"1234567890"
+},
+
+"career":{
+  "info":"To purse B.TECH"
+},
+"education" :[
+  {
+    "degree":"B-tech",
+    "institute":"pvpsit",
+    "data":["2016-20","60%"]
+  },
+  {
+    "degree":"inter",
+    "institute":"ABCD",
+    "data":["2014-16","80%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"XYZ",
+    "data":["2013-14","7.5%"]
+  }
+]
+}
